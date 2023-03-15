@@ -1,0 +1,72 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "tipo": "consumo"
+    },
+    {
+      "id": 2,
+      "tipo": "confeccionados"
+    },
+    {
+      "id": 3,
+      "tipo": "tecnologia"
+    },
+    {
+      "id": 4,
+      "tipo": "mobiliario"
+    },
+    {
+      "id": 5,
+      "tipo": "electrodomestico"
+    },
+    {
+      "tipo": "salud",
+      "id": 6
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "aceite",
+      "precioBob": "55",
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "impresora",
+      "precioBob": 451,
+      "categoriaId": 3
+    },
+    {
+      "id": 3,
+      "nombre": "computadora",
+      "precioBob": "3500",
+      "categoriaId": "3"
+    },
+    {
+      "id": 4,
+      "nombre": "cocina",
+      "precioBob": "5600",
+      "categoriaId": 5
+    },
+    {
+      "id": 5,
+      "nombre": "zapatos",
+      "precioBob": "250",
+      "categoriaId": 2
+    },
+    {
+      "nombre": "Jeans",
+      "precioBob": 250,
+      "categoriaId": "2",
+      "id": 6
+    },
+    {
+      "nombre": "Living",
+      "precioBob": 12000,
+      "categoriaId": "4",
+      "id": 7
+    }
+  ]
+}
